@@ -139,6 +139,20 @@ This added another reason to be cautious.
 
 However, Truecaller labels are user-generated and cannot independently prove that a number is being used for fraudulent activity.
 
+Evidence
+
+The screenshots collected during this investigation are available in the Evidence folder.
+
+The folder contains:
+
+* Original recruitment email
+* Email header analysis
+* VirusTotal URL investigation
+* AbuseIPDB IP reputation results
+* DNSDumpster domain investigation
+* DNS Twister similar-domain results
+* Truecaller telephone number lookup
+
 ## Summary of Findings
 
 | **Investigation**    | **Finding**                                          |
